@@ -1,6 +1,8 @@
 <div align="center">
 
-# In-Video Instructions: Visual Signals as Generative Control
+# In-Video Instructions:<br>Visual Signals as Generative Control
+
+
 
 <a href="https://fangggf.github.io/"><strong>Gongfan Fang</strong></a>
 &nbsp;&nbsp;
@@ -12,17 +14,13 @@
 
 <span style="font-size: 1.1em;"><em>Preprint 2025</em></span>
 
-<br>
-
 [![arXiv](https://img.shields.io/badge/arXiv-25XX.XXXXX-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/ARXIV_PAPER_ID)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fangggf.github.io/In-Video)
-[![Video](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+
 
 <br>
 
-<video width="100%" autoplay loop muted playsinline>
-  <source src="static/videos/video1.mp4" type="video/mp4">
-</video>
+<img src="static/videos/video1.gif" width="100%" alt="Teaser Video">
 
 <p><strong>“Visuals as Precise Control”</strong><br>
 <em>The textual prompt is fixed as "Follow the instructions step by step," while the model synthesizes content purely from the embedded visual signals within the input frames.</em>
@@ -50,51 +48,51 @@ In contrast to prompt-based control, which provides textual descriptions that ar
 <table align="center">
   <tr>
     <td align="center">
-      <video src="static/videos/video2.mp4" width="100%" autoplay loop muted playsinline></video>
+      <img src="static/videos/video2.gif" width="100%">
       <br><strong>Example 02</strong>
     </td>
     <td align="center">
-      <video src="static/videos/video3.mp4" width="100%" autoplay loop muted playsinline></video>
+      <img src="static/videos/video3.gif" width="100%">
       <br><strong>Example 03</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <video src="static/videos/video4.mp4" width="100%" autoplay loop muted playsinline></video>
+      <img src="static/videos/video4.gif" width="100%">
       <br><strong>Example 04</strong>
     </td>
     <td align="center">
-      <video src="static/videos/video5.mp4" width="100%" autoplay loop muted playsinline></video>
+      <img src="static/videos/video5.gif" width="100%">
       <br><strong>Example 05</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <video src="static/videos/video6.mp4" width="100%" autoplay loop muted playsinline></video>
+      <img src="static/videos/video6.gif" width="100%">
       <br><strong>Example 06</strong>
     </td>
     <td align="center">
-      <video src="static/videos/video7.mp4" width="100%" autoplay loop muted playsinline></video>
+      <img src="static/videos/video7.gif" width="100%">
       <br><strong>Example 07</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <video src="static/videos/video8.mp4" width="100%" autoplay loop muted playsinline></video>
+      <img src="static/videos/video8.gif" width="100%">
       <br><strong>Example 08</strong>
     </td>
     <td align="center">
-      <video src="static/videos/video9.mp4" width="100%" autoplay loop muted playsinline></video>
+      <img src="static/videos/video9.gif" width="100%">
       <br><strong>Example 09</strong>
     </td>
   </tr>
    <tr>
     <td align="center">
-      <video src="static/videos/video10.mp4" width="100%" autoplay loop muted playsinline></video>
+      <img src="static/videos/video10.gif" width="100%">
       <br><strong>Example 10</strong>
     </td>
     <td align="center">
-      <video src="static/videos/video11.mp4" width="100%" autoplay loop muted playsinline></video>
+      <img src="static/videos/video11.gif" width="100%">
       <br><strong>Example 11</strong>
     </td>
   </tr>
