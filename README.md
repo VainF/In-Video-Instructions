@@ -14,7 +14,7 @@
 
 <span style="font-size: 1.1em;"><em>Preprint 2025</em></span>
 
-[![arXiv](https://img.shields.io/badge/arXiv-25XX.XXXXX-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/ARXIV_PAPER_ID)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.19401-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2511.19401)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fangggf.github.io/In-Video)
 
 
@@ -106,6 +106,6 @@ In contrast to prompt-based control, which provides textual descriptions that ar
 @article{fang2025invideo,
   title={In-Video Instructions: Visual Signals as Generative Control},
   author={Fang, Gongfan and Ma, Xinyin and Wang, Xinchao},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2511.19401},
   year={2025}
 }
