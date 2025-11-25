@@ -49,61 +49,61 @@ In contrast to prompt-based control, which provides textual descriptions that ar
   <tr>
     <td align="center">
       <img src="static/videos/video2.gif" width="100%">
-      <br><strong>Example 02</strong>
+      <br><strong>Example 01</strong>
     </td>
     <td align="center">
       <img src="static/videos/video3.gif" width="100%">
-      <br><strong>Example 03</strong>
+      <br><strong>Example 02</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="static/videos/video4.gif" width="100%">
-      <br><strong>Example 04</strong>
+      <br><strong>Example 03</strong>
     </td>
     <td align="center">
       <img src="static/videos/video5.gif" width="100%">
-      <br><strong>Example 05</strong>
+      <br><strong>Example 04</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="static/videos/video6.gif" width="100%">
-      <br><strong>Example 06</strong>
+      <br><strong>Example 05</strong>
     </td>
     <td align="center">
       <img src="static/videos/video7.gif" width="100%">
-      <br><strong>Example 07</strong>
+      <br><strong>Example 06</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="static/videos/video8.gif" width="100%">
-      <br><strong>Example 08</strong>
+      <br><strong>Example 07</strong>
     </td>
     <td align="center">
       <img src="static/videos/video9.gif" width="100%">
-      <br><strong>Example 09</strong>
+      <br><strong>Example 08</strong>
     </td>
   </tr>
    <tr>
     <td align="center">
       <img src="static/videos/video10.gif" width="100%">
-      <br><strong>Example 10</strong>
+      <br><strong>Example 09</strong>
     </td>
     <td align="center">
       <img src="static/videos/video11.gif" width="100%">
-      <br><strong>Example 11 (Kling 2.5)</strong>
+      <br><strong>Example 10 (Kling 2.5)</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="static/videos/kling_videoA.gif" width="100%">
-      <br><strong>Example 12 (Kling 2.5)</strong>
+      <br><strong>Example 11 (Kling 2.5)</strong>
     </td>
     <td align="center">
       <img src="static/videos/kling_videoB.gif" width="100%">
-      <br><strong>Example 13 (Kling 2.5)</strong>
+      <br><strong>Example 12 (Kling 2.5)</strong>
     </td>
   </tr>
 </table>
