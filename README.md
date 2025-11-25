@@ -93,7 +93,17 @@ In contrast to prompt-based control, which provides textual descriptions that ar
     </td>
     <td align="center">
       <img src="static/videos/video11.gif" width="100%">
-      <br><strong>Example 11</strong>
+      <br><strong>Example 11 (Kling 2.5)</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="static/videos/kling_videoA.gif" width="100%">
+      <br><strong>Example 12 (Kling 2.5)</strong>
+    </td>
+    <td align="center">
+      <img src="static/videos/kling_videoB.gif" width="100%">
+      <br><strong>Example 13 (Kling 2.5)</strong>
     </td>
   </tr>
 </table>
